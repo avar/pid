@@ -2,8 +2,12 @@
 
 This is a survey of Perl's core module library compared with that of
 other languages. The intent is to gather information about what
-batteries are included in other languages and pinpoint equivalent CPAN
-replacements for those modules.
+"batteries" are included in other languages and pinpoint equivalent
+CPAN replacements for those modules.
+
+The resulting modules might then be packages in core, or included in
+some perl-batteries distribution downstream distributors are urged to
+release along with Perl.
 
 # The competition
 
