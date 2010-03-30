@@ -31,3 +31,11 @@ These things are considered essential for any language with batteries:
  * IMAP: Python
  * SMTP: Python
  * Telnet: Python
+ 
+## File formats
+
+ * CSV: Python, Ruby, not PHP
+
+## i18n
+
+ * gettext: Python, PHP, Java has property lists recommended
