@@ -47,3 +47,6 @@ These things are considered essential for any language with batteries:
  * Testing: We have very good Test::* modules. Python has
    [unittest](http://docs.python.org/library/unittest.html), PHP has
    nothing
+
+Improvements: Include a profiler / coverage analysis tool. NYTProf and
+Devel::Cover would be perfect.
