@@ -15,6 +15,16 @@ release along with Perl.
  * [Java™ Platform Standard Ed. 6](http://java.sun.com/javase/6/docs/api/)
  * [PHP functions](http://de2.php.net/manual/en/funcref.php)
  * [Ruby Core API](http://ruby-doc.org/core/)
- 
+ * ...
 
+# Major components
+
+These things are considered essential for any language with batteries:
+
+ * HTTP
  
+  HTTP is *the* network protocol. CPAN could use it to bootstrap.
+ 
+  Perl: [libwww-perl](http://search.cpan.org/dist/libwww-perl/)
+  PHP: [http functions](http://de2.php.net/manual/en/book.http.php)
+  Python: [httplib](http://docs.python.org/library/httplib.html)
