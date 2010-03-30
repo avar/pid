@@ -22,9 +22,8 @@ release along with Perl.
 These things are considered essential for any language with batteries:
 
 ## HTTP
- 
-HTTP is *the* network protocol. CPAN could use it to bootstrap.
- 
- - Perl: [libwww-perl](http://search.cpan.org/dist/libwww-perl/)
- - PHP: [http functions](http://de2.php.net/manual/en/book.http.php)
- - Python: [httplib](http://docs.python.org/library/httplib.html)
+
+We have [libwww-perl](http://search.cpan.org/dist/libwww-perl/) on
+CPAN. [PHP](http://de2.php.net/manual/en/book.http.php),
+[Python](http://docs.python.org/library/httplib.html) and Java all
+have something in core.
