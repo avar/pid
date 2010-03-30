@@ -39,3 +39,11 @@ These things are considered essential for any language with batteries:
 ## i18n
 
  * gettext: Python, PHP, Java has property lists recommended
+ 
+## Development Tools
+
+ * Documentation: Perldoc is ubiquitous everywhere in Perl. Python has
+   pydoc, Ruby rubydoc, Java javadoc, PHP phpdoc.
+ * Testing: We have very good Test::* modules. Python has
+   [unittest](http://docs.python.org/library/unittest.html), PHP has
+   nothing
