@@ -1,0 +1,16 @@
+# A survey of Perl core modules v.s. other languages
+
+This is a survey of Perl's core module library compared with that of
+other languages. The intent is to gather information about what
+batteries are included in other languages and pinpoint equivalent CPAN
+replacements for those modules.
+
+# The competition
+
+ * [The Python Standard Library](http://docs.python.org/library/)
+ * [Java™ Platform Standard Ed. 6](http://java.sun.com/javase/6/docs/api/)
+ * [PHP functions](http://de2.php.net/manual/en/funcref.php)
+ * [Ruby Core API](http://ruby-doc.org/core/)
+ 
+
+ 
